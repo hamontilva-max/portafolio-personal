@@ -1,4 +1,3 @@
-import React from 'react';
 import { PortafolioTemplate } from '../components/templates/PortafolioTemplate';
 import { SeccionInicio } from '../components/organisms/SeccionInicio';
 import { SeccionPersonal } from '../components/organisms/SeccionPersonal';
